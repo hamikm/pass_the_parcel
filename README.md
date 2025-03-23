@@ -11,7 +11,7 @@ the music is playing.
 2. The player who is holding the present when the music stops gets to unwrap the outermost
 layer of wrapping paper. The player leaves the game and becomes a spectator after
 unwrapping.
-3. There may or may not be a present in his layer.
+3. There may or may not be a present in a given layer.
 4. If the parcel is between players, break the tie with a quick game of rock paper
 scissors.
 5. If more than one layer is unwrapped, the player forfeits any presents to the next
