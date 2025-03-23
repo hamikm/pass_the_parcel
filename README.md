@@ -9,7 +9,7 @@ then I used mureka.ai to generate a song.
 1. Pass the parcel (i.e., "present" in American English) clockwise when
 the music is playing.
 2. The player who is holding the present when the music stops gets to unwrap the outermost
-layer of wrapping paper. He leaves the game and becomes a spectator after
+layer of wrapping paper. The player leaves the game and becomes a spectator after
 unwrapping.
 3. There may or may not be a present in his layer.
 4. If the parcel is between players, break the tie with a quick game of rock paper
