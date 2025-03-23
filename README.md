@@ -10,7 +10,9 @@ then I used mureka.ai to generate a song.
 Fiddle with the `min_length` and `max_length` fields to make the average interval times number of
 wrapping paper layers fit comfortably under the length of the song.
 
-`virtualenv env`
-`pip install -r requirements.txt`
-`cp <your song> .`
-`python3 play.py`
+```
+virtualenv env
+pip install -r requirements.txt
+cp <your song> .
+python3 play.py
+```
