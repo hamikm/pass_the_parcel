@@ -1,5 +1,5 @@
 # pass_the_parcel
-Serves as the soundtrack to the Bluey birthday party game "[pass the parcel](https://en.wikipedia.org/wiki/Pass_the_parcel)" by playing an mp3 and pausing it randomly while the parcel is in transit.
+Serves as the soundtrack to the Bluey birthday party game [pass the parcel](https://en.wikipedia.org/wiki/Pass_the_parcel) by playing an mp3 and pausing it randomly while the parcel is in transit.
 
 In my case I used deepseek to generate a rhyming song with lyrics about my son and his interests, then I used mureka.ai to generate a song.
 
