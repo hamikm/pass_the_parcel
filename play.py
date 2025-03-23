@@ -3,7 +3,7 @@ import random
 import time
 
 min_length = 10 # seconds
-max_length = 35 # seconds
+max_length = 40 # seconds
 
 pygame.mixer.init()
 pygame.mixer.music.load('song.mp3')
